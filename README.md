@@ -9,3 +9,7 @@
 <h5>TASK 2</h5>
 <h5>IRIS FLOWER CLASSIFICATION</h5>
 <p>The Iris flower dataset consists of three species: setosa, versicolor, and virginica. Develop a model that can classify iris flowers into different species based on their sepal and petal measurements..</p>
+
+<h5>TASK 3</h5>
+<h5>SALES PREDICTION USING PYTHON</h5>
+<p>Sales prediction involves forecasting the amount of a product thatcustomers will purchase, taking into account various factors such as advertising expenditure, target audience segmentation, and advertising platform selection.</p>
