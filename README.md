@@ -13,3 +13,7 @@
 <h7>TASK 3</h5>
 <h5>SALES PREDICTION USING PYTHON</h5>
 <p>Sales prediction involves forecasting the amount of a product thatcustomers will purchase, taking into account various factors such as advertising expenditure, target audience segmentation, and advertising platform selection.</p>
+
+<h7>TASK 4</h5>
+<h5>CREDIT CARD FRAUD DETECTION</h5>
+<p>Build a machine learning model to identify fraudulent credit card transactions. Preprocess and normalize the transaction data, handle class imbalance issues, and split the dataset into training and testing sets.</p>
